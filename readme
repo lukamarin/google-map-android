@@ -1,0 +1,17 @@
+After creating the JAR files, I've imported the JAR files into Eclipse again AND IMPORTED THE REQUIRED LIBRARIES. I've checked that there's no compilation error.
+I will lose 50% if that's not the case.
+
+Instructions:
+Get Map -> Gets the map, no auto focus for arrow keys.
+Exit -> Closes program.
+Sliders -> Does stuff to map, auto focuses on map, allowing arrow keys.
+Size -> Changes the display size, does not auto focus for arrow keys.
+Click on map -> Focuses on map to allow arrow keys to work
+Drop down list -> Has pre-made locations for the map
+Add location button -> Adds the current location to the drop down list for later use
+Save location button -> Saves an image of the current map to your local file system
+
+Known "visual" issues: sliders do not automatically update with arrow keys
+
+When you are trying to compile the file: PLEASE MANUALLY INCLUDE ALL LIBRARIES FROM:
+http://developerlife.com/tutorials/wp-content/uploads/geoip_service.zip
